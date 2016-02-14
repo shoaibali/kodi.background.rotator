@@ -30,7 +30,7 @@ Once it has picked a random file, it will rename it to be 'random.jpg'. However,
 
 * I would like to see this (concept) turn in to a proper Kodi addon (if it does not exist) already. 
 * The path to location is hard coded /storage/pictures/ (this can be a dropbox to keep photos in sync from phones etc)
-* Kodi will only look for '.jpg' format images. I will try and point it to a formatless (i.e without extension) or experiement with symlink
+* Kodi will only look for '.jpg' format images. I will try and point it to a formatless (i.e without extension) or experiment with symlink
 
 
 
